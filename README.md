@@ -97,7 +97,7 @@ To design a real-time embedded system that:
 ## 📦 Demo Access
 
 📁 **Note**: The full demo (including STM32 project files, ESP8266 code, and test assets) is too large to be pushed to the repository.  
-🔗 You can download the zipped archive here: [📥 Google Drive Link](https://your-google-drive-link.com)
+🔗 You can download the zipped archive here: [📥 Google Drive Link]([https://your-google-drive-link.com](https://drive.google.com/file/d/1JC4P38LGzFe2ceE3vE3U3Xrzu2IuPW6v/view?usp=sharing))
 
 ---
 
